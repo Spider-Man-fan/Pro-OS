@@ -16,3 +16,4 @@ This is an early skeleton. It boots (in QEMU) and prints to the screen. Much mor
 
 ## Getting Started
 ...
+You can use without QEMU
